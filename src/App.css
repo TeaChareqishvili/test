@@ -1,0 +1,35 @@
+.wrapper {
+  width: 80%;
+  height: 100%;
+  margin: auto;
+  padding: 40px;
+  background-color: blanchedalmond;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+button {
+  margin: 40px;
+  background-color: brown;
+  color: white;
+  padding: 10px 30px;
+  cursor: pointer;
+}
+fieldset {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
